@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_01/Java_01.iml" filepath="$PROJECT_DIR$/Java_01/Java_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_02/Java_02.iml" filepath="$PROJECT_DIR$/Java_02/Java_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_03/Java_03.iml" filepath="$PROJECT_DIR$/Java_03/Java_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_04_Book/Java_04_Book.iml" filepath="$PROJECT_DIR$/Java_04_Book/Java_04_Book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_05_BoPhim/Java_05_BoPhim.iml" filepath="$PROJECT_DIR$/Java_05_BoPhim/Java_05_BoPhim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_06_SinhVien/Java_06_SinhVien.iml" filepath="$PROJECT_DIR$/Java_06_SinhVien/Java_06_SinhVien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_07_MayTinh/Java_07_MayTinh.iml" filepath="$PROJECT_DIR$/Java_07_MayTinh/Java_07_MayTinh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_08_KeThua/Java_08_KeThua.iml" filepath="$PROJECT_DIR$/Java_08_KeThua/Java_08_KeThua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_09_Overriding/Java_09_Overriding.iml" filepath="$PROJECT_DIR$/Java_09_Overriding/Java_09_Overriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_10_Overloading/Java_10_Overloading.iml" filepath="$PROJECT_DIR$/Java_10_Overloading/Java_10_Overloading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_11_Abstract/Java_11_Abstract.iml" filepath="$PROJECT_DIR$/Java_11_Abstract/Java_11_Abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_12_Abstract_KeThua/Java_12_Abstract_KeThua.iml" filepath="$PROJECT_DIR$/Java_12_Abstract_KeThua/Java_12_Abstract_KeThua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_13_Interface/Java_13_Interface.iml" filepath="$PROJECT_DIR$/Java_13_Interface/Java_13_Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_14_Package/Java_14_Package.iml" filepath="$PROJECT_DIR$/Java_14_Package/Java_14_Package.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_15_StringJava/Java_15_StringJava.iml" filepath="$PROJECT_DIR$/Java_15_StringJava/Java_15_StringJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_16_Array/Java_16_Array.iml" filepath="$PROJECT_DIR$/Java_16_Array/Java_16_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_17_CompareToandComparable/Java_17_CompareToandComparable.iml" filepath="$PROJECT_DIR$/Java_17_CompareToandComparable/Java_17_CompareToandComparable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_18_HamTrongJava/Java_18_HamTrongJava.iml" filepath="$PROJECT_DIR$/Java_18_HamTrongJava/Java_18_HamTrongJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_19_tachChuoiThanhMang/Java_19_tachChuoiThanhMang.iml" filepath="$PROJECT_DIR$/Java_19_tachChuoiThanhMang/Java_19_tachChuoiThanhMang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_20_cacLopDataTime/Java_20_cacLopDataTime.iml" filepath="$PROJECT_DIR$/Java_20_cacLopDataTime/Java_20_cacLopDataTime.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_21_ENUM/Java_21_ENUM.iml" filepath="$PROJECT_DIR$/Java_21_ENUM/Java_21_ENUM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_22_ArrayList/Java_22_ArrayList.iml" filepath="$PROJECT_DIR$/Java_22_ArrayList/Java_22_ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_23_Stack/Java_23_Stack.iml" filepath="$PROJECT_DIR$/Java_23_Stack/Java_23_Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_24_Queue_Deque/Java_24_Queue_Deque.iml" filepath="$PROJECT_DIR$/Java_24_Queue_Deque/Java_24_Queue_Deque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_25_SET/Java_25_SET.iml" filepath="$PROJECT_DIR$/Java_25_SET/Java_25_SET.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_26_Map/Java_26_Map.iml" filepath="$PROJECT_DIR$/Java_26_Map/Java_26_Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_27_Generic/Java_27_Generic.iml" filepath="$PROJECT_DIR$/Java_27_Generic/Java_27_Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_28_TepTinThuMuc/Java_28_TepTinThuMuc.iml" filepath="$PROJECT_DIR$/Java_28_TepTinThuMuc/Java_28_TepTinThuMuc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_29_XoaTepTinThuMuc/Java_29_XoaTepTinThuMuc.iml" filepath="$PROJECT_DIR$/Java_29_XoaTepTinThuMuc/Java_29_XoaTepTinThuMuc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_30_DoiTen_DiChuyen/Java_30_DoiTen_DiChuyen.iml" filepath="$PROJECT_DIR$/Java_30_DoiTen_DiChuyen/Java_30_DoiTen_DiChuyen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_31_GhiDuLieuDangText/Java_31_GhiDuLieuDangText.iml" filepath="$PROJECT_DIR$/Java_31_GhiDuLieuDangText/Java_31_GhiDuLieuDangText.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_32_DocDuLieuDangTextTuTapTin/Java_32_DocDuLieuDangTextTuTapTin.iml" filepath="$PROJECT_DIR$/Java_32_DocDuLieuDangTextTuTapTin/Java_32_DocDuLieuDangTextTuTapTin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_33_GhiDoiTuongXuongTapTin/Java_33_GhiDoiTuongXuongTapTin.iml" filepath="$PROJECT_DIR$/Java_33_GhiDoiTuongXuongTapTin/Java_33_GhiDoiTuongXuongTapTin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_34_DocDoiTuongXuongTapTin/Java_34_DocDoiTuongXuongTapTin.iml" filepath="$PROJECT_DIR$/Java_34_DocDoiTuongXuongTapTin/Java_34_DocDoiTuongXuongTapTin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_35_NenVaGiaiNenJava/Java_35_NenVaGiaiNenJava.iml" filepath="$PROJECT_DIR$/Java_35_NenVaGiaiNenJava/Java_35_NenVaGiaiNenJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_36_JFrame/Java_36_JFrame.iml" filepath="$PROJECT_DIR$/Java_36_JFrame/Java_36_JFrame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_37_ThanhPhanBoCuc/Java_37_ThanhPhanBoCuc.iml" filepath="$PROJECT_DIR$/Java_37_ThanhPhanBoCuc/Java_37_ThanhPhanBoCuc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_38_JPanel_LookAndFeel/Java_38_JPanel_LookAndFeel.iml" filepath="$PROJECT_DIR$/Java_38_JPanel_LookAndFeel/Java_38_JPanel_LookAndFeel.iml" />
+    </modules>
+  </component>
+</project>

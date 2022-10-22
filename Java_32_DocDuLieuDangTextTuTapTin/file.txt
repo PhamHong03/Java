@@ -1,0 +1,3 @@
+Xin chao minh la Hong.com ne
+Hay song nhu nhung doa hoa, vi em la bong hoa dep nhat
+Studnet{id=100, ten='Nguyen Hong Trung'}
